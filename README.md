@@ -1,5 +1,5 @@
-# B.S.c-Project
-Voice based engine starting system
+//B.S.c-Project
+//Voice based engine starting system
 #include<pic.h>
 #include"pic_lcd4.h"
 #include"pic_adc.h"
